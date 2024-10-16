@@ -1,7 +1,3 @@
-# Recor ML
-
-This project showcases the development of an article suggestion system using web analytics data and cloud-based machine learning. It employs a matrix factorization technique for collaborative filtering to propose relevant content to readers based on their browsing behavior.
-
 ## Project Synopsis
 
 The project encompasses these main stages:
@@ -32,18 +28,4 @@ The project encompasses these main stages:
    - `create_table.sql`
    - `train.sql`
    - `predict.sql`
-3. For a detailed walkthrough, refer to the `bqml_ga360.ipynb` notebook
 
-## Requirements
-
-- Google Cloud Platform account with BigQuery access
-- Proficiency in SQL and BigQuery
-- Foundational knowledge of recommendation systems and collaborative filtering
-
-## Pricing Consideration
-
-Training advanced matrix factorization models requires setting up a reservation (flex or regular) in BigQuery. On-demand pricing is not available for this model type.
-
-## Contributions
-
-We welcome forks of this repository and encourage pull requests for any enhancements or expansions to the project.
